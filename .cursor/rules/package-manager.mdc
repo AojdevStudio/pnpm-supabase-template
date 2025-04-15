@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Approved package manager
+
+- only use pnpm as your package manager

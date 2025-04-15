@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Always use supabase mcp to find out info about the project
+
+use the supabase mcp to find all info about the data. Only use data from supabase. do not use dummy data. 
