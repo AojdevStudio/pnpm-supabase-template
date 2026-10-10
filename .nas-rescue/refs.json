@@ -1,0 +1,20 @@
+{
+  "source": "/volume1/projects/unified-dental-projects/supabase-production/data-visuals.",
+  "original_head": "95eef24e044e8635056ee3eff399598e04a4db84",
+  "original_refs": [
+    [
+      "refs/heads/main",
+      "95eef24e044e8635056ee3eff399598e04a4db84",
+      "commit"
+    ],
+    [
+      "refs/remotes/origin/main",
+      "95eef24e044e8635056ee3eff399598e04a4db84",
+      "commit"
+    ]
+  ],
+  "stashes": [],
+  "excluded_new_files": [
+    ".env.example"
+  ]
+}
